@@ -7,3 +7,7 @@ setup project you need to install following
 2) install protractor https://github.com/angular/protractor/blob/master/docs/tutorial.md
 
 3) run npm install
+
+https://www.thoughtworks.com/insights/blog/using-page-objects-overcome-protractors-shortcomings 
+
+Page object rule applied 
