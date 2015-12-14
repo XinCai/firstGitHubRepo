@@ -1,0 +1,26 @@
+{
+  "name": "ConditionalEligibility.E2ETests",
+  "version": "0.0.1",
+  "description": "ConditionalEligibility.E2ETests using protractor jasmine webdriverjs",
+  "author": {
+    "name": "CaiKe",
+    "email": "kevin.cai@cba.com.au"
+  },
+  "dependencies": {
+    "protractor": "^3.0.0"
+  },
+  "devDependencies": {
+    "chance": "^0.7.5",
+    "gulp": "^3.9.0",
+    "gulp-protractor": "^1.0.0",
+    "jasmine-spec-reporter": "^2.4.0",
+    "minimist": "^1.2.0",
+    "protractor": "^3.0.0",
+    "protractor-html-screenshot-reporter": "0.0.19"
+  },
+  "scripts": {
+    "test": "protractor conf.js",
+    "start" : "webdriver-manager start"
+  }
+
+}
